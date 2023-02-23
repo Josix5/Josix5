@@ -8,8 +8,4 @@
   Me llamo José Franco y soy un desarrollador Full Stack apasionado por la programación y la creación de soluciones tecnológicas. Desde joven, siempre he estado interesado en la tecnología y su capacidad para transformar el mundo que nos rodea. Descubrí mi amor por la programación mientras cursaba mis estudios universitarios y desde entonces he estado dedicado a aprender todo lo posible sobre este campo.
 </p>
 
-<div class="container">
-  <div id="linkedin" style="width:30px; heigth:20px; background-color:blue;">
-    LinkedIn
-  </div>
-</div>
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
