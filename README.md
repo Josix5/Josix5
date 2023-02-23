@@ -12,7 +12,7 @@
 - ASP .NET Core (Aprendiendo)
 > Data Storage
 - MySQL
-- SQLServer
+- SQL Server
 - PostgreSQL
 - MongoDB Non-Relational DB (Aprendiendo)
 
