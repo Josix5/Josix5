@@ -11,5 +11,5 @@
 [![](https://img.shields.io/badge/github-lightgray?style=for-the-badge&logo=github)](https://github.com/Josix5)
 [![](https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/twitter-9cf?style=for-the-badge&logo=twitter)](https://hamzamohdzubair.github.io/redant/)
-[![](https://img.shields.io/badge/website-brightgreen?style=for-the-badge&logo=webstorm)](https://docs.rs/crate/redant/latest)
+[![](https://img.shields.io/badge/website-red?style=for-the-badge&logo=webstorm)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://crates.io/crates/redant)
