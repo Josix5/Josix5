@@ -2,7 +2,7 @@
 
 <img src="./multimedia/Banner.png" alt="Banner-Josix" width="2000" heigth="500">
 
-### Skills
+### Conocimientos
 > FrontEnd
 - Angular Framework
 - React Framework (Aprendiendo)
