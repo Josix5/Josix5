@@ -29,3 +29,11 @@
 [![](https://img.shields.io/badge/twitter-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/Josix_5)
 [![](https://img.shields.io/badge/website-red?style=for-the-badge&logo=webstorm)](https://josix5.github.io)
 [![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-franco-152baa207/)
+
+<!--
+CREACION DE ICONOGRAFIA A ENLACES
+
+Creación de bloques de colores (escudos/shields): https://shields.io
+Lista de todos los iconos simples (Formato SVG Vectorial): https://simpleicons.org/
+Lista de iconos simples soportados por GitHub: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+-->
