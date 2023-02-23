@@ -2,6 +2,20 @@
 
 <img src="./multimedia/Banner.png" alt="Banner-Josix" width="2000" heigth="500">
 
+### Skills
+> FrontEnd
+- Angular Framework
+- React Framework (Aprendiendo)
+- Vue.JS (Aprendiendo)
+> BackEnd
+- SpringBoot Framework
+- ASP .NET Core (Aprendiendo)
+> Data Storage
+- MySQL
+- SQLServer
+- PostgreSQL
+- MongoDB Non-Relational DB (Aprendiendo)
+
 ### Sobre mí
 
 <p>
