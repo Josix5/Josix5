@@ -5,5 +5,5 @@
 #### Sobre mí
 
 <p>
-  Soy un desarrollador Full Stack apasionado por la programación y la creación de soluciones tecnológicas. Desde joven, siempre he estado interesado en la tecnología y su capacidad para transformar el mundo que nos rodea. Descubrí mi amor por la programación mientras cursaba mis estudios universitarios y desde entonces he estado dedicado a aprender todo lo posible sobre este campo.
+  Me llamo José Franco y soy un desarrollador Full Stack apasionado por la programación y la creación de soluciones tecnológicas. Desde joven, siempre he estado interesado en la tecnología y su capacidad para transformar el mundo que nos rodea. Descubrí mi amor por la programación mientras cursaba mis estudios universitarios y desde entonces he estado dedicado a aprender todo lo posible sobre este campo.
 </p>
