@@ -30,6 +30,12 @@
   Me llamo José Franco y soy un desarrollador Full Stack apasionado por la programación y la creación de soluciones tecnológicas. Desde joven, siempre he estado interesado en la tecnología y su capacidad para transformar el mundo que nos rodea. Descubrí mi amor por la programación mientras cursaba mis estudios universitarios y desde entonces he estado dedicado a aprender todo lo posible sobre este campo.
 </p>
 
+<div align="start">
+  <a href="https://github.com/pablouix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josix5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josix5&layout=compact&langs_count=7&theme=react"/>
+</div>
+
 <!--
 CREACION DE ICONOGRAFIA A ENLACES
 
